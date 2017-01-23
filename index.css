@@ -1,0 +1,14 @@
+/* 
+index.css 
+
+ABOUT: this is the stylesheet for the rough landings devotional 
+AUTHOR: Rebecca DeMarco 
+DATE: est. 1/23/2017
+*/ 
+
+body {
+	
+	font-family: 'IM Fell English SC', serif;
+	background-image: url(tree_bark.png);
+	text-align: center
+}
