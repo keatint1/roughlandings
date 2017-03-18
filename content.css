@@ -1,0 +1,36 @@
+/* 
+index.css 
+ABOUT: this is the stylesheet for the rough landings devotional 
+AUTHOR: Rebecca DeMarco 
+DATE: est. 2/15/2017
+*/ 
+
+
+body {
+	font-family: 'Eczar', serif;
+	background-image: url(stardust.jpg);
+	padding-left: 125px; 
+	padding-right: 125px;
+	text-align: left; 
+	color: white;
+	font-size: 20px;
+}
+
+
+h1 {
+	padding-top: 50px;
+	font-family: 'Forum', cursive;
+}
+
+
+button{
+	background-color: transparent; 
+	font-size: 14px;
+	border-radius: 18px;
+	padding: 10px 10px;
+	color: white; 
+}
+
+a{
+	color: orange;
+}
