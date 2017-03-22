@@ -34,5 +34,6 @@ button{
 img{
 	float: left;
 	padding-right: 25px;
-	padding-bottom: 10px;
+	padding-bottom: 5px;
+	padding-left: 20px;
 }
